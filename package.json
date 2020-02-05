@@ -15,7 +15,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
     "s": "^1.0.0",
-    "zm-palette-generator": "git+ssh://git@github.com/zimbra/zm-palette-generator#master"
+    "zm-palette-generator": "git+ssh://git@github.com/aayushvijayvergiya/zm-palette-generator#master"
   },
   "scripts": {
     "start": "react-scripts start",
